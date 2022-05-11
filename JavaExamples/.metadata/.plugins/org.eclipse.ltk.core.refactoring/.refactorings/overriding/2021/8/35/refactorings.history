@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;overriding.OgrenciKrediManagerü&apos; to &apos;OgrenciKrediManager&apos;&#x0D;&#x0A;- Original project: &apos;overriding&apos;&#x0D;&#x0A;- Original element: &apos;overriding.OgrenciKrediManagerü&apos;&#x0D;&#x0A;- Renamed element: &apos;overriding.OgrenciKrediManager&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OgrenciKrediManagerü&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;overriding{OgrenciKrediManagerü.java[OgrenciKrediManagerü" matchStrategy="1" name="OgrenciKrediManager" qualified="false" references="true" similarDeclarations="false" stamp="1629812143896" textual="false" version="1.0"/>
+</session>

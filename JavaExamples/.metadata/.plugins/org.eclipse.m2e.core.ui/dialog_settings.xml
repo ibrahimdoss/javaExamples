@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\etiyaHomework\ReCapProject"/>
+			<item value="C:\etiyaHomework\reCapProject"/>
+			<item value="C:\etiyaHomework\northwindSpring"/>
+			<item value="C:\etiyaHomework\cvWorkNine"/>
+			<item value="C:\etiyaHomework\hrmsEightDay\hrmsEightDay"/>
+			<item value="C:\etiyaHomework\hrmsNineWork"/>
+			<item value="C:\etiyaHomework\hrmsEightDay"/>
+			<item value="C:\etiyaHomework\campjavabackend"/>
+			<item value="C:\etiyaHomework\hrms7_Gün"/>
+			<item value="C:\etiyaHomework\hrms"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
